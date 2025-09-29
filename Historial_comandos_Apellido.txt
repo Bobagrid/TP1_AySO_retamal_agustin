@@ -1,0 +1,221 @@
+ssh-keygen -t ed25519
+cat .ssh/id_ed25519.pub
+cd home
+cat .ssh/id:ed25519.pub
+ls -l .ssh/
+cat .ssh/id_ed25519.pub
+ls -l
+ls -la
+cat /home/vagrant/.ssh/id_ed25519.pub
+ls -l /home/vagrant/.ssh/id_ed25519.pub
+cd .ssh
+ls -l
+cd..
+cd ..
+ssh-keygen -t ed25519
+cat .ssh/id:ed25519.pub
+cat /.ssh/id:ed25519.pub
+cd .ssh
+ls -l
+cat id25519.pub
+cat id_25519.pub
+cat id_ed25519.pub
+cd ..
+ls -l
+cd
+mkdir carpetaDePruebas
+ls
+ls -l
+cd repogit
+pwd
+git clone git@github.com:Bobagrid/TP1_AySO_retamal_agustin.git
+cd T
+cd TP1_AySO_retamal_agustin/
+pwd
+clear
+ls -l
+cd ..
+pwd
+mkdir clase6
+ls -l
+cd clase6
+touch practica.txt
+ls -l
+echo ls -l > script1
+ls -l
+cat script1 
+bash script1 
+vim script2.sh
+cat script2.sh
+./script2.sh
+sudo ./script2.sh
+chmod 775 script2.sh
+ls -l
+./script2.sh
+exit
+cd repogit
+cd TP1_AySO_retamal_agustin
+ls -l
+cat /etc/os-release
+man
+man man
+man grep
+man cat
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+man grep
+grep -e home_url /etc/os-release
+grep -f home_url /etc/os-release
+man grep
+grep -E Home_url /etc/os-release
+grep -F Home_url /etc/os-release
+grep -r home_url /etc/os-release
+egrep home_url /etc/os-release
+grep HOME_URL
+grep HOME_URL /etc/os-release > datos_url.txt
+ls -l
+grep -i home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+ls -l
+cat datos_usuario.txt
+exit
+cd repogit
+ls -l
+cd TP1_AySO_retamal_agustin/
+git add.
+git add .
+git config --global user.email "agusretamal2704@gmail.com" git config --global user.name "Bobagrid"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git config --global user.email "agusretamal2704@gmail.com"
+git config --global user.name "Bobagrid"
+git commit -m "ADD: agregado 1er ejerc
+icio sobre datos_usuarios.txt"
+ls -l
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+cd..
+cd ..
+ls -l
+cd TP1_AySO_retamal_agustin/
+ls -l
+cd ..
+ls -l
+cd ..
+ls -l
+cd repogit
+cd TP1_AySO_retamal_agustin/
+git commit -m "ADD: datos_usuario.txt
+
+
+git status
+exit
+cd repogit
+cd TP1_AySO_retamal_agustin/
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git add .
+git config --global user.email "agusretamal2704@gmail.com"
+git config --global user.name"Bobagrid"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+cat datos_usuario.txt
+man grep
+grep -i HOME_URL /etc/os-release
+grep home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+ls -l
+git add .
+git config --global user.email "agusretamal2704@gmail.com"
+git config --global user.name "Bobagrid"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git push
+grep cpuinfo
+grep 
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+ls -l
+cd repogit/
+s.txt
+grep "model name" /proc/cpuinfo | head -n1 >> dato
+s_usuari
+clear
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+cd TP1_AySO_retamal_agustin/
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+clear
+cat datos_usuario.txt 
+git commit -m "feat: Añadiendo información de CPU"
+git status
+ls -l
+git add .
+git config --global user.email "agusretamal2704@gmail.com"
+git config --global user.name "Bobagrid"
+git commit -m "feat: Añadiendo información de CPU"
+
+EOF
+
+cat <<EOF >> README.md
+Alumno: <Agustín Retamal>
+División: <113>
+Turno: <Mañana>
+EOF
+
+cat README.md
+nano README.md
+exit
+cd repogit/
+cd TP1_AySO_retamal_agustin/
+git add .
+git config --global user.email "agusretamal2704@gmail.com"
+git config --global user.name "Bobagrid"
+cd ..
+cd TP1_AySO_retamal_agustin/
+git add README.md datos_usuarios.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+git status
+mkdir -p {materia1,materia2}/{uni1,uni2,uni3}
+ls -l
+tree
+apt install tree
+E
+cd materia 1
+cd materia1
+ls
+cd ..
+cd materia2
+ls
+cd..
+tree
+snap install tree
+sudo snap install tree
+cd ..
+tree
+cat << EOF > script_dir.sh
+#!/bin/basg
+mkdir -p {materia1,materia2}/{uni
+EOF
+
+nano script_dir.sh 
+cd repogit/
+cd TP1_AySO_retamal_agustin/
+ls -l
+cat script_dir.sh 
+cd ..
+mkdir carpetaaaaa
+cd carpetaaaaa/
+mkdir -p {cosa1, cosa2}/{caa1,caa2,caa3}
+tree
+mk dir -p {carpepapa1,carpepapa2}/{sim1,sim2,sim3}
+mkdir -o {carpepapa1,carpepapa2}/{sim1,sim2,sim3}
+mkdir -p {carpepapa1,carpepapa2}/{sim1,sim2,sim3}
+tree
+cd ..
+cd TP1_AySO_retamal_agustin/
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+git status
+history -a
